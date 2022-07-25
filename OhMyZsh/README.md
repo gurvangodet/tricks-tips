@@ -143,7 +143,7 @@ Si tu n'as pas d'erreur tu devrais voir affiché ceci :
 ![enter image description here](https://linuxhint.com/wp-content/uploads/2021/10/How-to-Install-oh-my-zsh-and-Use-it-with-ZSH-2.png)
 >***BINUS*** des couleurs dans mon terminal!
 
-***Pense à REDÉMARRER ta VM afin d'être sûr que tout s'est bien installé***
+***Pense à REDÉMARRER ta machine afin d'être sûr que tout s'est bien installé***
 
 ## Commandes utiles
 
